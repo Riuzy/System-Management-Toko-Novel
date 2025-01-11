@@ -1,0 +1,18 @@
+[
+    {
+        "judul": "Dilan",
+        "penulis": "Pidi Baiq",
+        "genre": "Romantis",
+        "tahun_rilis": 2014,
+        "stok": 7,
+        "harga": 120000
+    },
+    {
+        "judul": "Hujan",
+        "penulis": "Tere Liye",
+        "genre": "Fiksi, Romantis, Petualangan, Ilmiah",
+        "tahun_rilis": 2016,
+        "stok": 25,
+        "harga": 160000
+    }
+]

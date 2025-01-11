@@ -1,0 +1,22 @@
+[
+    {
+        "nama": "Tono",
+        "alamat": "Barat",
+        "no_tlp": "09998887",
+        "judul": "Dilan",
+        "jumlah": 1,
+        "harga_per_unit": 100000,
+        "total_harga": 100000,
+        "tanggal_transaksi": "2025-01-11 13:38:28"
+    },
+    {
+        "nama": "Aziz",
+        "alamat": "Madiun",
+        "no_tlp": "08765342442",
+        "judul": "Dilan",
+        "jumlah": 3,
+        "harga_per_unit": 120000,
+        "total_harga": 360000,
+        "tanggal_transaksi": "2025-01-11 17:35:18"
+    }
+]
